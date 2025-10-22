@@ -30,11 +30,11 @@
 - Installation de pyUNLocBox
 - Conception d'un tutoriel
 
-### Jour 3 – 03/10/2025
+### Jour 3 – 22/10/2025
     
 - Rédaction du README.md.
 - Rédaction de 22W2164LEA-DASSI.md.
-- Correction sur la présentation.
+- Apport des corrections sur la présentation.
 
 ---
 
